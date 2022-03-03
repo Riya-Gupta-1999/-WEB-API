@@ -1,0 +1,10 @@
+C:\Users\Ritik\source\repos\NS.EMS.API\NS.EMS.Model\bin\Debug\netcoreapp3.1\NS.EMS.Model.deps.json
+C:\Users\Ritik\source\repos\NS.EMS.API\NS.EMS.Model\bin\Debug\netcoreapp3.1\NS.EMS.Model.dll
+C:\Users\Ritik\source\repos\NS.EMS.API\NS.EMS.Model\bin\Debug\netcoreapp3.1\NS.EMS.Model.pdb
+C:\Users\Ritik\source\repos\NS.EMS.API\NS.EMS.Model\obj\Debug\netcoreapp3.1\NS.EMS.Model.csproj.AssemblyReference.cache
+C:\Users\Ritik\source\repos\NS.EMS.API\NS.EMS.Model\obj\Debug\netcoreapp3.1\NS.EMS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ritik\source\repos\NS.EMS.API\NS.EMS.Model\obj\Debug\netcoreapp3.1\NS.EMS.Model.AssemblyInfoInputs.cache
+C:\Users\Ritik\source\repos\NS.EMS.API\NS.EMS.Model\obj\Debug\netcoreapp3.1\NS.EMS.Model.AssemblyInfo.cs
+C:\Users\Ritik\source\repos\NS.EMS.API\NS.EMS.Model\obj\Debug\netcoreapp3.1\NS.EMS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Ritik\source\repos\NS.EMS.API\NS.EMS.Model\obj\Debug\netcoreapp3.1\NS.EMS.Model.dll
+C:\Users\Ritik\source\repos\NS.EMS.API\NS.EMS.Model\obj\Debug\netcoreapp3.1\NS.EMS.Model.pdb
